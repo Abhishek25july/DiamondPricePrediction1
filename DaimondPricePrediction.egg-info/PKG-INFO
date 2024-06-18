@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: DaimondPricePrediction
+Version: 0.0.1
+Author: Abhishek Tripathi
+Author-email: abhishek25tripathi1998@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: flask
